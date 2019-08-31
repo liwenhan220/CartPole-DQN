@@ -21,7 +21,7 @@ step2: Install python by following prompt
 
 step3: Open cmd, enter the installation location, which usually exists in C:\Users\XXX\AppData\Local\Python\Python36\Scripts 
 
-(win+r >> type: 'cmd' >> type: 'cd C:\Users\XXX\AppData\Local\Python\Python36\Scripts')
+(win+r --> type: 'cmd' --> type: 'cd C:\Users\XXX\AppData\Local\Python\Python36\Scripts')
 
 step4: Type: 'pip install tensorflow gym==0.12.4'
 
