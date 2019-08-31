@@ -34,4 +34,5 @@ step5: Run 'train_model.py' to train your own model that balances the cartpole, 
 Among those models, you might find some versions of models missing: 'v4', 'v9', 'v10' and 'v12'. In fact, due to some reasons, those models yielded terrible results, and thus are removed from the repository
 
 # Special Thanks
-sentdex
+
+Sentdex
