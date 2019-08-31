@@ -12,7 +12,7 @@ gym
 
 # Source
 
-
+https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf
 
 # Just in case
 step1: Download python3 from "https://www.python.org/"
