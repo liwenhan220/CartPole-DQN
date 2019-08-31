@@ -20,10 +20,12 @@ step1: Download python3 from "https://www.python.org/"
 step2: Install python by following prompt
 
 step3: Open cmd, enter the installation location, which usually exists in C:\Users\XXX\AppData\Local\Python\Python36\Scripts 
- (win+r >> type: 'cmd' >> type: 'cd C:\Users\XXX\AppData\Local\Python\Python36\Scripts')
+
+(win+r >> type: 'cmd' >> type: 'cd C:\Users\XXX\AppData\Local\Python\Python36\Scripts')
 
 step4: Type: 'pip install tensorflow gym==0.12.4'
- (if you have nvidia gpu, add 'pip install tensorflow-gpu')
+
+(if you have nvidia gpu, add 'pip install tensorflow-gpu')
 
 step5: Run 'train_model.py' to train your own model that balances the cartpole, or run 'test_model.py' or 'test_model_with_no_episodes.py' to test the pretrained models given.
 
