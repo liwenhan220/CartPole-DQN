@@ -19,7 +19,7 @@ RANDOM_STEPS = 250
 replay_memory = deque(maxlen=50_000)
 SHOW_EVEY = 1
 SHOW_PREVIEW = True
-MODEL = 'src/CartPole-v0.model'
+MODEL = 'models/CartPole-v15.model'
 record = deque(maxlen=1)
 record.append(200)
 
